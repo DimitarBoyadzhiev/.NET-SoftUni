@@ -1,0 +1,16 @@
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\bin\Debug\net8.0\ForumApp.Core.deps.json
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\bin\Debug\net8.0\ForumApp.Core.dll
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\bin\Debug\net8.0\ForumApp.Core.pdb
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\bin\Debug\net8.0\ForumApp.Infrastructure.dll
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\bin\Debug\net8.0\ForumApp.Infrastructure.pdb
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\obj\Debug\net8.0\ForumApp.Core.csproj.AssemblyReference.cache
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\obj\Debug\net8.0\ForumApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\obj\Debug\net8.0\ForumApp.Core.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\obj\Debug\net8.0\ForumApp.Core.AssemblyInfo.cs
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\obj\Debug\net8.0\ForumApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\obj\Debug\net8.0\ForumApp.Core.sourcelink.json
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\obj\Debug\net8.0\ForumApp.0F126817.Up2Date
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\obj\Debug\net8.0\ForumApp.Core.dll
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\obj\Debug\net8.0\refint\ForumApp.Core.dll
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\obj\Debug\net8.0\ForumApp.Core.pdb
+C:\Users\dimit\Desktop\.NET SOFTUNI\.NET-SoftUni\ASP.NET Fundamentals - януари 2024\Forum App\ForumApp\ForumApp.Core\obj\Debug\net8.0\ref\ForumApp.Core.dll

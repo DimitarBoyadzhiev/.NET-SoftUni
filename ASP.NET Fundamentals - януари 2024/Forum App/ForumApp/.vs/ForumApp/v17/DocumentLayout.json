@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dimit\\AppData\\Roaming\\Microsoft\\UserSecrets\\46f12bc3-abea-4b77-8cbd-851e2bbf193f\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F47639A-E162-42AD-B6DA-674442DA07CB}|ForumApp\\ForumApp.csproj|c:\\users\\dimit\\desktop\\.net softuni\\.net-softuni\\asp.net fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\forum app\\forumapp\\forumapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F47639A-E162-42AD-B6DA-674442DA07CB}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dimit\\AppData\\Local\\SourceServer\\7a287ee1f056f9db75075694441e4f259937a04948cddbf515ea2717ea859945\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F47639A-E162-42AD-B6DA-674442DA07CB}|ForumApp\\ForumApp.csproj|c:\\users\\dimit\\desktop\\.net softuni\\.net-softuni\\asp.net fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\forum app\\forumapp\\forumapp\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F47639A-E162-42AD-B6DA-674442DA07CB}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FBBB16-02AD-458D-81A1-AF1CA1E108C8}|ForumApp.Core\\ForumApp.Core.csproj|c:\\users\\dimit\\desktop\\.net softuni\\.net-softuni\\asp.net fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\forum app\\forumapp\\forumapp.core\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FBBB16-02AD-458D-81A1-AF1CA1E108C8}|ForumApp.Core\\ForumApp.Core.csproj|solutionrelative:forumapp.core\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FBBB16-02AD-458D-81A1-AF1CA1E108C8}|ForumApp.Core\\ForumApp.Core.csproj|c:\\users\\dimit\\desktop\\.net softuni\\.net-softuni\\asp.net fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\forum app\\forumapp\\forumapp.core\\contracts\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FBBB16-02AD-458D-81A1-AF1CA1E108C8}|ForumApp.Core\\ForumApp.Core.csproj|solutionrelative:forumapp.core\\contracts\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F47639A-E162-42AD-B6DA-674442DA07CB}|ForumApp\\ForumApp.csproj|c:\\users\\dimit\\desktop\\.net softuni\\.net-softuni\\asp.net fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\forum app\\forumapp\\forumapp\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F47639A-E162-42AD-B6DA-674442DA07CB}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F47639A-E162-42AD-B6DA-674442DA07CB}|ForumApp\\ForumApp.csproj|c:\\users\\dimit\\desktop\\.net softuni\\.net-softuni\\asp.net fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\forum app\\forumapp\\forumapp\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F47639A-E162-42AD-B6DA-674442DA07CB}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F47639A-E162-42AD-B6DA-674442DA07CB}|ForumApp\\ForumApp.csproj|c:\\users\\dimit\\desktop\\.net softuni\\.net-softuni\\asp.net fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\forum app\\forumapp\\forumapp\\views\\post\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F47639A-E162-42AD-B6DA-674442DA07CB}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\post\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FBBB16-02AD-458D-81A1-AF1CA1E108C8}|ForumApp.Core\\ForumApp.Core.csproj|c:\\users\\dimit\\desktop\\.net softuni\\.net-softuni\\asp.net fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\forum app\\forumapp\\forumapp.core\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FBBB16-02AD-458D-81A1-AF1CA1E108C8}|ForumApp.Core\\ForumApp.Core.csproj|solutionrelative:forumapp.core\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F47639A-E162-42AD-B6DA-674442DA07CB}|ForumApp\\ForumApp.csproj|c:\\users\\dimit\\desktop\\.net softuni\\.net-softuni\\asp.net fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\forum app\\forumapp\\forumapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F47639A-E162-42AD-B6DA-674442DA07CB}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B913E9-9836-40DE-BBDA-74211EC9180F}|ForumApp.Infrastructure\\ForumApp.Infrastructure.csproj|c:\\users\\dimit\\desktop\\.net softuni\\.net-softuni\\asp.net fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\forum app\\forumapp\\forumapp.infrastructure\\constants\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B913E9-9836-40DE-BBDA-74211EC9180F}|ForumApp.Infrastructure\\ForumApp.Infrastructure.csproj|solutionrelative:forumapp.infrastructure\\constants\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "ForumApp\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp\\Controllers\\PostController.cs",
+              "RelativeToolTip": "ForumApp\\Controllers\\PostController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:24:47.432Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp.Core\\Contracts\\IPostService.cs",
+              "RelativeDocumentMoniker": "ForumApp.Core\\Contracts\\IPostService.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp.Core\\Contracts\\IPostService.cs",
+              "RelativeToolTip": "ForumApp.Core\\Contracts\\IPostService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:26:23.257Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp.Core\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "ForumApp.Core\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp.Core\\Services\\PostService.cs",
+              "RelativeToolTip": "ForumApp.Core\\Services\\PostService.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAcwF8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:26:44.276Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ForumApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp\\appsettings.json",
+              "RelativeToolTip": "ForumApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T16:33:09.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\dimit\\AppData\\Roaming\\Microsoft\\UserSecrets\\46f12bc3-abea-4b77-8cbd-851e2bbf193f\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\46f12bc3-abea-4b77-8cbd-851e2bbf193f\\secrets.json",
+              "ToolTip": "C:\\Users\\dimit\\AppData\\Roaming\\Microsoft\\UserSecrets\\46f12bc3-abea-4b77-8cbd-851e2bbf193f\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\46f12bc3-abea-4b77-8cbd-851e2bbf193f\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T16:32:58.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp\\Views\\Post\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ForumApp\\Views\\Post\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp\\Views\\Post\\Edit.cshtml",
+              "RelativeToolTip": "ForumApp\\Views\\Post\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T15:51:44.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionDispatchInfo.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\AppData\\Local\\SourceServer\\7a287ee1f056f9db75075694441e4f259937a04948cddbf515ea2717ea859945\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\7a287ee1f056f9db75075694441e4f259937a04948cddbf515ea2717ea859945\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs",
+              "ToolTip": "C:\\Users\\dimit\\AppData\\Local\\SourceServer\\7a287ee1f056f9db75075694441e4f259937a04948cddbf515ea2717ea859945\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\7a287ee1f056f9db75075694441e4f259937a04948cddbf515ea2717ea859945\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:04:56.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp\\Views\\Post\\Add.cshtml",
+              "RelativeDocumentMoniker": "ForumApp\\Views\\Post\\Add.cshtml",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp\\Views\\Post\\Add.cshtml",
+              "RelativeToolTip": "ForumApp\\Views\\Post\\Add.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T15:23:57.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "ForumApp\\Views\\Post\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "ForumApp\\Views\\Post\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T14:57:42.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ForumApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ForumApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T15:01:35.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ValidationConstants.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp.Infrastructure\\Constants\\ValidationConstants.cs",
+              "RelativeDocumentMoniker": "ForumApp.Infrastructure\\Constants\\ValidationConstants.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp.Infrastructure\\Constants\\ValidationConstants.cs",
+              "RelativeToolTip": "ForumApp.Infrastructure\\Constants\\ValidationConstants.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:41:07.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostModel.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp.Core\\Models\\PostModel.cs",
+              "RelativeDocumentMoniker": "ForumApp.Core\\Models\\PostModel.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\Forum App\\ForumApp\\ForumApp.Core\\Models\\PostModel.cs",
+              "RelativeToolTip": "ForumApp.Core\\Models\\PostModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:38:53.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
