@@ -69,8 +69,7 @@
               "ViewState": "AQIAADYAAAAAAAAAAAAAAEgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T14:24:47.432Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T14:26:23.257Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "ViewState": "AQIAAFEAAAAAAAAAAAAcwF8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T14:26:44.276Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -136,8 +133,7 @@
               "RelativeToolTip": "ForumApp\\Views\\Post\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T15:51:44.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T15:51:44.32Z"
             },
             {
               "$type": "Document",
@@ -149,8 +145,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\7a287ee1f056f9db75075694441e4f259937a04948cddbf515ea2717ea859945\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAmwDQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T15:04:56.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T15:04:56.939Z"
             },
             {
               "$type": "Document",
@@ -162,8 +157,7 @@
               "RelativeToolTip": "ForumApp\\Views\\Post\\Add.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T15:23:57.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T15:23:57.621Z"
             },
             {
               "$type": "Document",
@@ -175,8 +169,7 @@
               "RelativeToolTip": "ForumApp\\Views\\Post\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T14:57:42.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T14:57:42.174Z"
             },
             {
               "$type": "Document",
@@ -188,8 +181,7 @@
               "RelativeToolTip": "ForumApp\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T15:01:35.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T15:01:35.258Z"
             },
             {
               "$type": "Document",
@@ -201,8 +193,7 @@
               "RelativeToolTip": "ForumApp.Infrastructure\\Constants\\ValidationConstants.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAwCMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T14:41:07.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T14:41:07.24Z"
             },
             {
               "$type": "Document",
@@ -214,8 +205,7 @@
               "RelativeToolTip": "ForumApp.Core\\Models\\PostModel.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAuwAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T14:38:53.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T14:38:53.331Z"
             }
           ]
         }

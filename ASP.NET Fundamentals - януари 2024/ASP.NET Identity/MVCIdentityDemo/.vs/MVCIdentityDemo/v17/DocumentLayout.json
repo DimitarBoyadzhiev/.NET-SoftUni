@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\ASP.NET Identity\\MVCIdentityDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{266A0B5C-B270-4E98-BB59-71BABB12BC86}|MVCIdentityDemo\\MVCIdentityDemo.csproj|c:\\users\\dimit\\desktop\\.net softuni\\.net-softuni\\asp.net fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\asp.net identity\\mvcidentitydemo\\mvcidentitydemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{266A0B5C-B270-4E98-BB59-71BABB12BC86}|MVCIdentityDemo\\MVCIdentityDemo.csproj|solutionrelative:mvcidentitydemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266A0B5C-B270-4E98-BB59-71BABB12BC86}|MVCIdentityDemo\\MVCIdentityDemo.csproj|c:\\users\\dimit\\desktop\\.net softuni\\.net-softuni\\asp.net fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\asp.net identity\\mvcidentitydemo\\mvcidentitydemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266A0B5C-B270-4E98-BB59-71BABB12BC86}|MVCIdentityDemo\\MVCIdentityDemo.csproj|solutionrelative:mvcidentitydemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266A0B5C-B270-4E98-BB59-71BABB12BC86}|MVCIdentityDemo\\MVCIdentityDemo.csproj|c:\\users\\dimit\\desktop\\.net softuni\\.net-softuni\\asp.net fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\asp.net identity\\mvcidentitydemo\\mvcidentitydemo\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266A0B5C-B270-4E98-BB59-71BABB12BC86}|MVCIdentityDemo\\MVCIdentityDemo.csproj|solutionrelative:mvcidentitydemo\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266A0B5C-B270-4E98-BB59-71BABB12BC86}|MVCIdentityDemo\\MVCIdentityDemo.csproj|c:\\users\\dimit\\desktop\\.net softuni\\.net-softuni\\asp.net fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\asp.net identity\\mvcidentitydemo\\mvcidentitydemo\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{266A0B5C-B270-4E98-BB59-71BABB12BC86}|MVCIdentityDemo\\MVCIdentityDemo.csproj|solutionrelative:mvcidentitydemo\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\ASP.NET Identity\\MVCIdentityDemo\\MVCIdentityDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCIdentityDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\ASP.NET Identity\\MVCIdentityDemo\\MVCIdentityDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCIdentityDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:35:29.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\ASP.NET Identity\\MVCIdentityDemo\\MVCIdentityDemo\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "MVCIdentityDemo\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\ASP.NET Identity\\MVCIdentityDemo\\MVCIdentityDemo\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "MVCIdentityDemo\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:34:51.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\ASP.NET Identity\\MVCIdentityDemo\\MVCIdentityDemo\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MVCIdentityDemo\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\ASP.NET Identity\\MVCIdentityDemo\\MVCIdentityDemo\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MVCIdentityDemo\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-05T13:48:14.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\ASP.NET Identity\\MVCIdentityDemo\\MVCIdentityDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCIdentityDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\.NET SOFTUNI\\.NET-SoftUni\\ASP.NET Fundamentals - \u044F\u043D\u0443\u0430\u0440\u0438 2024\\ASP.NET Identity\\MVCIdentityDemo\\MVCIdentityDemo\\appsettings.json",
+              "RelativeToolTip": "MVCIdentityDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T13:37:48.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
